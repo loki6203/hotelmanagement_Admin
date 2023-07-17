@@ -1,7 +1,7 @@
 import axios from "axios";
 import { getCookie } from "./cookieHandling";
 import { toast } from 'react-toastify';
-const url = "http://192.46.210.89:5050/api/";
+const url = "https://hotel-management-dffr.onrender.com/api/";
 
 const instance = axios.create({
     baseURL: url,
