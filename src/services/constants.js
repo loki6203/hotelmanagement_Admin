@@ -1,0 +1,1 @@
+export const kImageURL = "http://192.46.210.89:5050/"
